@@ -8,7 +8,6 @@ I'm Raiden, a full stack web developer based in London. I get inspired by scienc
 
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [Raiden Dilan](http://raidendilan.co.uk)
-* 🧠  I'm learning Framer Motion
 
 ### Skills
 
