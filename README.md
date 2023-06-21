@@ -6,9 +6,21 @@ Fullstack Developer - React | Typescript | Node | AWS
 
 I'm Raiden, a full stack web developer based in London. I get inspired by science fiction stories, original design and creativity. My work has been varied – from full stack apps, UX/UI, single page apps, MVC, open source CMS like SquareSpace, Wix and other digital tools – but always with a human-centered approach and a keen eye for detail. I like to take influences from nature, architecture and cinematography, and always lean towards minimalism and simplicity. I'm a big typography lover and into minimal design. I aim for a high quality, polished product to achieve my clients goals.
 
+* 🖥️  See my portfolio at [Raiden Dilan](https://raidendilan.github.io/rd)
 * 🌍  I'm based in London
-* 🖥️  See my portfolio at [Raiden Dilan](http://raidendilan.co.uk)
-
+* 🔭 I’m currently working on **RDT 2.0 - Coming Soon!**
+* 🌱 I’m currently learning new skills/improving existing skills:
+  * **Front-end**
+    * [Framer Motion](https://www.framer.com/motion)
+    * Chromatic
+    * Storybook
+  * **DevOps**
+    * Github Actions
+      * CI/CD
+      * Semantics
+      * PR Labeling
+      * Automate Releases
+  
 ### Skills
 
 
