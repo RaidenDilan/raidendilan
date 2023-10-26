@@ -8,7 +8,8 @@ I'm Raiden, a full stack web developer based in London. I get inspired by scienc
 
 * 🖥️  See my portfolio at [Raiden Dilan](https://raiden-corp.github.io/rd)
 * 🌍  I'm based in London
-* 🔭 I’m currently working on **RDT 2.0 - Coming Soon!**
+* 🔭 I’ve been working on **RDT 2.0 - [RDT](https://www.rawanddilantherapy.com)**
+* 🍂 I will publish my next project very soon
 * 🌱 I’m currently learning new skills/improving existing skills:
   * **Front-end**
     * [Framer Motion](https://www.framer.com/motion)
