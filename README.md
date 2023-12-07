@@ -9,12 +9,16 @@ I'm Raiden, a full stack web developer based in London. I get inspired by scienc
 * 🖥️  See my portfolio at [Raiden Dilan](https://raiden-corp.github.io/rd)
 * 🌍  I'm based in London
 * ✅ I’ve been working on **RDT 2.0 - [RDT](https://www.rawanddilantherapy.com)**
-* 🍂 I'm currently working on creating a private custom React component library built with Vite 4, Vitest 1.34.x and many more technologies.
+* 🍂 I've recently created a private React component library callled **RCK (Raiden Corp Kit)** which built with Rollup 4, Storybook 7, Typescript, Styled-Components, Framer and Jest.
+
+Resources
+
 * 🌱 I’m currently learning new skills/improving existing skills:
   * **Front-end**
     * [Framer Motion](https://www.framer.com/motion)
     * Chromatic
     * Storybook
+    * Rollup
   * **DevOps**
     * Github Actions
       * CI/CD
