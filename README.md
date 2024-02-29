@@ -1,8 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raiden
+Hi, my name is Raiden ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==============================================================================================================================
 
-Fullstack Developer - React | Typescript | Node | AWS
------------------------------------------------------
+Fullstack Developer - React | Typescript | Node | AWS | TDD
+-----------------------------------------------------------
 
 Hi I'm Raiden, Passionate Frontend Developer with 7+ years of experience crafting compelling user interfaces, writing efficient code, and implementing user-centric features. Highly accomplished and user-focused, I excel in collaborating with UX and design teams to plan and execute technical writing for functional specifications in websites and applications. Proficient in building multi-platform websites using Responsive Web Design, I am enthusiastic about exploring React Native in future roles, aiming to elevate my skills in mobile development.
 
