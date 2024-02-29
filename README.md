@@ -4,27 +4,28 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer - React | Typescript | Node | AWS
 -----------------------------------------------------
 
-I'm Raiden, a full stack web developer based in London. I get inspired by science fiction stories, original design and creativity. My work has been varied – from full stack apps, UX/UI, single page apps, MVC, open source CMS like SquareSpace, Wix and other digital tools – but always with a human-centered approach and a keen eye for detail. I like to take influences from nature, architecture and cinematography, and always lean towards minimalism and simplicity. I'm a big typography lover and into minimal design. I aim for a high quality, polished product to achieve my clients goals.
+Hi I'm Raiden, Passionate Frontend Developer with 7+ years of experience crafting compelling user interfaces, writing efficient code, and implementing user-centric features. Highly accomplished and user-focused, I excel in collaborating with UX and design teams to plan and execute technical writing for functional specifications in websites and applications. Proficient in building multi-platform websites using Responsive Web Design, I am enthusiastic about exploring React Native in future roles, aiming to elevate my skills in mobile development.
 
 * 🖥️  See my portfolio at [Raiden Dilan](https://raiden-corp.github.io/rd)
 * 🌍  I'm based in London
 * ✅ I’ve been working on **RDT 2.0 - [RDT](https://www.rawanddilantherapy.com)**
-* 🍂 I've recently created a private React component library callled **RCK (Raiden Corp Kit)** which is built with Rollup 4, Storybook 7, Typescript, Styled-Components, Framer and Jest.
+* 🍂 I've recently created a private React component library callled **RCK (Raiden Corp Kit)** which is built with Rollup 4, Storybook 7, Typescript, Styled-Components, Framer, Jest and more.
+* 🧑🏻‍💻 I am currently in the first stage of designing and building a SaaS Platform with Next.js, NextAuth.js, React, Prisma, tRPC, Tailwind, OpenAI, Stripe and more.
 
 Resources
 
 * 🌱 I’m currently learning new skills/improving existing skills:
-  * **Front-end**
+  * **New Skills**
+    * [Prisma](https://www.prisma.io)
+    * [tRPC](https://trpc.io)
+    * [OpenAI](https://openai.com)
+   
+  * **Existing Skills**
+    * [Next.js](https://nextjs.org)
+    * [Storybook](https://storybook.js.org)
+    * [Rollup](https://rollupjs.org)
+    * [Vite](https://vitejs.dev)
     * [Framer Motion](https://www.framer.com/motion)
-    * Chromatic
-    * Storybook
-    * Rollup
-  * **DevOps**
-    * Github Actions
-      * CI/CD
-      * Semantics
-      * PR Labeling
-      * Automate Releases
   
 ### Skills
 
