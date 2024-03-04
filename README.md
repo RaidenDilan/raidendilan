@@ -110,7 +110,7 @@ Hi I'm Raiden, Passionate Frontend Developer with 7+ years of experience craftin
 
 ---
 
-### UI
+### UI/UX
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
